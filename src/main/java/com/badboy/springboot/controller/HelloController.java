@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * Created by peter zhao on 2/27/2017.
- */
+
 @RestController
 public class HelloController {
 

@@ -1,8 +1,6 @@
 package com.badboy.springboot;
 
-/**
- * Created by peter zhao on 2/22/2017.
- */
+
 public class Test {
 
 
